@@ -1,6 +1,6 @@
 # C-Sharp-Notes-Programes
 
-![Programmer]9/images/img1.jpg)
+![Programmer](/images/img1.jpg)
 
 ## Table of Content
 
