@@ -2,7 +2,7 @@
 
 ![Programmer](/images/img1.jpg)
 
-                                                    Photo by Vlada Karpovich from Pexels
+                                             Photo by Vlada Karpovich from Pexels
 
 ## Table of Content
 
